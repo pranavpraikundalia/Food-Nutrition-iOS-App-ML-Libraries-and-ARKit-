@@ -27,4 +27,9 @@ Work in progress with dataset with nutrition for every product.
    
    <h1>Screenshots</h1>
    
+   ![alt text](https://github.com/pranavpraikundalia/Food-Nutrition-iOS-App-ML-Libraries-and-ARKit-/blob/master/MLAR/IMG_9097.PNG)
    
+   
+   
+   
+   ![alt text](https://github.com/pranavpraikundalia/Food-Nutrition-iOS-App-ML-Libraries-and-ARKit-/blob/master/MLAR/IMG_9098.PNG)
